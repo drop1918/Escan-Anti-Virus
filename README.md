@@ -223,4 +223,4 @@ eScan Anti-Virus is offered as a full free version with all features and updates
 Don't wait! Safeguard your computer today with eScan Anti-Virus — download now and enjoy complete online security!
 
 ---
-**Last updated:** 2026-09-26 21:49:04 UTC
+**Last updated:** 2026-09-27 00:13:22 UTC
